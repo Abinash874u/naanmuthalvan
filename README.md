@@ -2,4 +2,4 @@
 open to new way
 
 
-ger another way: https://github.com/Abinash874u/naanmuthalvan.git
+ger another way: https://abinash874u.github.io/naanmuthalvan/
